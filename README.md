@@ -15,3 +15,7 @@ In the data cleaning and preparation, the following tasks were performed:
 - Used the split column feature in the power query editor to split somes columns by delimiter and also by digits.
 - Added the custom column feature to create a new "Average Salary" column.
 - Renamed various columns.
+
+### Results and Findings
+- Data Scientists has the highest average salary of $134,000 per the survey
+- Python is the favorite programming language used per the survey and its mostly used by Data Analyst
