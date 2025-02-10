@@ -3,3 +3,8 @@ This is a Power Bi project that aims to analyze and give insights into the surve
 
 ### Data Source
 Data survey: Primary dataset used for this analysis is the "Power Bi Project 1 excel workbook" file, which contains the data and information about the different data roles in the tech industry.
+
+### Tools Used
+For this project Power Bi was the main and sole tool used for data cleaning and analysis.
+
+### Data Cleaning/ Preparation
